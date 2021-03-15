@@ -1,1 +1,1 @@
-# 420-a52-sf
+# 420-A52-SF - Algorithmes d'apprentissage supervisé
